@@ -1,0 +1,5 @@
+train: D:/micosoft downlodes/fire/fire/train/images
+val: D:/micosoft downlodes/fire/fire/val/images
+
+nc: 1  # 类别数
+names: ['fire']  # 类别名称
